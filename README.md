@@ -1,8 +1,8 @@
-**React To-Do App**
+**Interactive notes application**
 
 **Project Description**
 
-This project is a To-Do list application built using React and TypeScript (TSX). It offers a user-friendly interface for creating, managing, and organizing tasks. Users can add, delete, and mark tasks as completed, making it an efficient tool for personal task management.
+This project is an interactive to-do notes application built using React and TypeScript (TSX). It offers a user-friendly interface for creating, managing, and organizing tasks. Users can add, delete, and mark tasks as completed, making it an efficient tool for personal task management.
 
 **Technologies Used**
 
